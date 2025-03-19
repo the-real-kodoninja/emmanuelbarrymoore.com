@@ -2,7 +2,7 @@
 
 ## From Legacy to Legacy: A Decade of Evolution
 
-This platform, initially forged in the crucible of a 2-3 day sprint back in 2015, stands as a testament to rapid prototyping and the raw passion of a developer eager to showcase their vision. Conceived in a bygone era of PHP, HTML, vanilla JavaScript, jQuery, and CSS, it served as a portfolio of my core platform concepts, built without the luxury of backend or mobile considerations.
+This platform, initially forged in the crucible of a 2-3 day sprint back in 2015, stands as a testament to rapid prototyping and the raw passion of a developer eager to showcase their vision. Controbutions from Kristy Carrion to VGS can be seen, awaiting to be finally implemented in 2025. Conceived in a bygone era of PHP, HTML, vanilla JavaScript, jQuery, and CSS, it served as a portfolio of my core platform concepts, built without the luxury of backend or mobile considerations.
 
 Now, nearly a decade later, the embers of that original project are being reignited. Starting **March 19th, 2025**, this platform will undergo a comprehensive metamorphosis. We're not just refactoring; we're rebuilding from the ground up, embracing modern technologies and architectural best practices.
 
