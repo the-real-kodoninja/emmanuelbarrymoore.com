@@ -1,0 +1,29 @@
+/* social Links */
+ul.sclNav li a {
+    color: #424141;
+}
+
+#scl1:hover {
+    color: #4F5D95;
+}
+
+#scl2:hover {
+    color: #0E3EFF;
+}
+
+#scl3:hover {
+    color: #2DE621;
+}
+
+#scl4:hover {
+    color: #F3B114;
+}
+
+#scl5:hover {
+    color: #B416D4;
+}
+
+#scl6:hover, .rdFt {
+    color: #CF4B4B;
+}
+
