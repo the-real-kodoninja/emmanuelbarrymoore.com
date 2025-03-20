@@ -1,0 +1,4 @@
+function codeLd1a() {
+    $('#codeLd1a').load('user.php');
+}
+

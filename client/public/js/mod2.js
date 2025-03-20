@@ -1,0 +1,736 @@
+/*
+image load js
+banner and profile picture
+*/
+function imgMdLoad1x() {
+      $("#imgMdLoad").html("<img src='img/bnr/Screenshot from 2015-10-14 20:44:35b.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoad2x() {
+      $("#imgMdLoad").html("<img src='img/temp/20160517_082019.jpg'>");
+      $("#txtMdLoad1a").text('Me at the BWI Airport on my Alienware M17');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+/* project load: Merra */
+function imgMdLoadA1() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/1497952_438752086301730_3328249670183103996_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA2() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/1956974_452110524965886_3592992194369016038_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA3() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/1979267_452110544965884_4304109027105706713_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA4() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/10847640_441833165993622_759013998857865719_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA5() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/10982934_452110511632554_1305654246484625943_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA6() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/10998650_438752069635065_2582403745631551149_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA7() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11025729_452110504965888_6603559219363703143_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA8() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11038756_452110488299223_5861095077181582035_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA9() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11071028_452110508299221_1021865555271002401_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA10() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11073511_441833285993610_2850762594793321085_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA11() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11080519_441833175993621_5830639489145194764_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA12() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11080706_438752122968393_6393302437541185724_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA13() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11083996_438752112968394_6161231752377524332_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA14() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11102916_438752079635064_8040816838221876289_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA15() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11113368_441833219326950_8077036340947125888_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA16() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11113368_441833252660280_9117950646441880141_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA17() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11130336_441833225993616_7868741162253772710_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA18() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11149818_452110468299225_8561133191623202061_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA19() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11154764_452110491632556_1151004283217662142_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA20() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11169569_452110464965892_3779027394733216845_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA21() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11194478_452110478299224_8595446277400333682_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA22() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11194594_452110484965890_4149396739354951617_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadA23() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/merra/11203530_452110558299216_6840595144662657396_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Merra');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+/* project load: VGS */
+function imgMdLoadB1() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/1899839_440495486127390_5733312386717923476_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB2() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/10465524_444688749041397_5976036714847470057_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB3() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/10495103_437159903127615_4768128498918948212_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB4() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/10861097_440495452794060_485203377758271434_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB5() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/10955297_437159913127614_8738536223488507369_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB6() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/10984586_444688732374732_9066232176233041352_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB7() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11021377_444688702374735_3324004203071787904_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB8() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11045337_443056935871245_1216761580130375349_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB9() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11063852_437159909794281_7509261776167730714_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB10() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11070192_444688719041400_2200445824210841092_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB11() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11076184_443056955871243_7244147025832922325_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB12() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11077945_444688739041398_6367445016179754933_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB13() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11079560_437159923127613_8847632152457777460_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB14() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11080508_444688705708068_5025523181124524677_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB15() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11080731_440495456127393_6294049989479742744_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB16() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11080831_437159943127611_8748393789143058657_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB17() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11082415_440495469460725_3716269357485864487_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB18() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11087807_443056939204578_2322521777929892972_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB19() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11090939_440495466127392_2707407751194385269_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB20() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11113940_444688712374734_8322642197878654355_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB21() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11130375_443056959204576_6811875521749232351_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadB22() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/vgs/11136251_444688735708065_1937918852961523183_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of VGS');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+/* project load: PGR */
+function imgMdLoadC1() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/1614013_437147089795563_8755174189425878628_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC2() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11012000_437147109795561_8640557458722196680_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC3() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11048682_443021695874769_865243086297841500_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC4() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11070101_437147133128892_4692613673233540009_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC5() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11080378_437147096462229_2929647443503860244_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC6() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11080793_437147099795562_1335046400220148210_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC7() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11082440_443021705874768_4651063909660373108_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC8() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11094152_443021715874767_4291799541312354421_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadC9() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/pgr/11136240_443021725874766_5295439458542139272_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of PGR');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+/* project load: GreenHeartPT */
+function imgMdLoadD1() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/1980501_955038101193843_5565818349684851117_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD2() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11010583_955037851193868_2872136631088041283_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD3() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11011939_955037934527193_2760126084887791562_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD4() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11079998_955037524527234_2253325221238154678_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD5() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11136090_955037711193882_916684494792241660_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD6() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11148567_955037097860610_1543569738534476929_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD7() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11154576_955037581193895_8025093307947206791_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD8() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11154576_955037581193895_8025093307947206791_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD9() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11157523_955038047860515_7463366602084980064_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD10() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11155043_955038357860484_6168071543445594944_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD11() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11157523_955038047860515_7463366602084980064_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD12() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11161703_955037167860603_3753640108829535325_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD13() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11164635_955037657860554_7614564749226175066_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD14() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11169554_955038464527140_1781779550120457726_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD15() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11169579_955037271193926_4355236387694178411_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD16() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11174302_955037351193918_9146954543274840299_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadD17() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/ghpt/11174728_955038264527160_6465011376463576850_o.jpg'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of GreenHeartPT');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+/* project load: Aviyon 2.0 */
+function imgMdLoadE1() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/12105881_513576795485925_5217886422197168529_n.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE2() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/905994_454702081373397_4300636660481133033_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE3() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/1979190_471498593027079_1809703558581115132_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE4() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/10365313_457563677753904_5734641220004495223_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE5() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/10648439_471498596360412_2004393459943213085_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE6() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/10710409_457563637753908_8617346335530935915_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE7() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/10914977_471498669693738_3397566661228879250_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE8() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/10916701_454702054706733_70604174088959140_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE9() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/10987413_454702078040064_2996084551481726508_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE10() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11098239_471498673027071_5790546974266221437_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE11() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11105154_457563627753909_7873929672413201744_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE12() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11140765_454702028040069_3140347876362506641_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE13() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11174567_454702031373402_3818283885789673487_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE14() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11182743_454702051373400_1902763685499284966_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE15() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11201012_457563634420575_7127334624798920226_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE16() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11206498_457563651087240_5699865030096698084_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE17() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11206526_471498666360405_5820184573256481129_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE18() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11212151_454702064706732_6373377485393637733_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE19() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11227547_471498583027080_8754946738339718143_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE20() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11262482_457563681087237_2468896542943752930_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE21() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11270379_457563667753905_5283361916375076017_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE22() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11270554_457563661087239_6634009015058180832_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE23() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11402368_471498599693745_5419150570460919060_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+function imgMdLoadE24() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/12105881_513576795485925_5217886422197168529_n.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE25() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11402745_471498659693739_3184648856721405992_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE26() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11411676_471498606360411_3644808367929188370_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE27() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11412242_471498603027078_4817681960680078110_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE28() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11415516_471498586360413_3665520873321356312_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE29() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11416394_471498676360404_5965106793183843446_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE30() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11537168_471498609693744_8475068509873582406_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+
+function imgMdLoadE31() {
+      $("#imgMdLoad").html("<img src='img/prj/screenshot/aviyon_2.0/11539251_471498579693747_5296402228476081245_o.png'>");
+      $("#txtMdLoad1a").text('Screenshot from my computer of Aviyon');
+      $('.imgMdCnt').show(300);
+      $('.bckDrp').show();
+}
+

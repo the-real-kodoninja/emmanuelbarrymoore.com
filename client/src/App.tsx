@@ -1,18 +1,33 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Home from './pages/Home';
-import AboutPage from './pages/AboutPage';
-import ContactPage from './pages/ContactPage';
+import React, { useEffect, useState } from 'react';
+import { fetchProjects, fetchAbout } from './api';
 
-const App: React.FC = () => (
-  <Router>
-    <Navbar />
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/about" element={<AboutPage />} />
-      <Route path="/contact" element={<ContactPage />} />
-    </Routes>
-  </Router>
-);
+function App() {
+  const [projects, setProjects] = useState([]);
+  const [about, setAbout] = useState([]);
+
+  useEffect(() => {
+    fetchProjects().then(data => setProjects(data));
+    fetchAbout().then(data => setAbout(data));
+  }, []);
+
+  return (
+    <div>
+      {/* Header and banner as above */}
+      <div className="aUto mnInr">
+        <div id="tab1" className="pRjdsPy">
+          {projects.map(project => (
+            <div key={project.id}>{project.title}</div>
+          ))}
+        </div>
+        <div id="tab4" className="pRjdsPy dN">
+          {about.map(item => (
+            <div key={item.id}>{item.bio}</div>
+          ))}
+        </div>
+        {/* Footer as above */}
+      </div>
+    </div>
+  );
+}
 
 export default App;
