@@ -1,3 +1,7 @@
+using Microsoft.AspNetCore.Mvc;
+using PortfolioApi.Models;
+using PortfolioApi.Data; // Add this
+
 [Route("api/[controller]")]
 [ApiController]
 public class AboutController : ControllerBase
@@ -10,8 +14,8 @@ public class AboutController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<About>>> GetAbout()
+    public ActionResult<IEnumerable<About>> Get()
     {
-        return await _context.Abouts.ToListAsync();
+        return _context.Abouts.ToList();
     }
 }

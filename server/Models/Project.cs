@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 namespace PortfolioApi.Models
 {
     public class Project
@@ -10,4 +8,3 @@ namespace PortfolioApi.Models
         public required string ImageUrl { get; set; }
     }
 }
->>>>>>> Stashed changes

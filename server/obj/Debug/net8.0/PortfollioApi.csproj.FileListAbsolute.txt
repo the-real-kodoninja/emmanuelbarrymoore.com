@@ -1,0 +1,7 @@
+/workspaces/emmanuelbarrymoore.com/server/obj/Debug/net8.0/PortfollioApi.csproj.AssemblyReference.cache
+/workspaces/emmanuelbarrymoore.com/server/obj/Debug/net8.0/PortfollioApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/emmanuelbarrymoore.com/server/obj/Debug/net8.0/PortfollioApi.AssemblyInfoInputs.cache
+/workspaces/emmanuelbarrymoore.com/server/obj/Debug/net8.0/PortfollioApi.AssemblyInfo.cs
+/workspaces/emmanuelbarrymoore.com/server/obj/Debug/net8.0/PortfollioApi.csproj.CoreCompileInputs.cache
+/workspaces/emmanuelbarrymoore.com/server/obj/Debug/net8.0/PortfollioApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/emmanuelbarrymoore.com/server/obj/Debug/net8.0/PortfollioApi.sourcelink.json

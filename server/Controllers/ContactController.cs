@@ -1,20 +1,12 @@
+using Microsoft.AspNetCore.Mvc;
+
 [Route("api/[controller]")]
 [ApiController]
 public class ContactController : ControllerBase
 {
-    private readonly PortfolioContext _context;
-
-    public ContactController(PortfolioContext context)
-    {
-        _context = context;
-    }
-
     [HttpPost]
-    public async Task<ActionResult<ContactSubmission>> PostContactSubmission(ContactSubmission submission)
+    public ActionResult Post([FromBody] object data) // Adjust type as needed
     {
-        submission.SubmittedAt = DateTime.UtcNow;
-        _context.ContactSubmissions.Add(submission);
-        await _context.SaveChangesAsync();
-        return CreatedAtAction(nameof(PostContactSubmission), new { id = submission.Id }, submission);
+        return Ok("Contact received");
     }
 }
